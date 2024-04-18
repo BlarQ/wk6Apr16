@@ -24,7 +24,7 @@ pTag1[5].innerHTML = "<strong>Skills and Expertise:</strong> Your skillset exten
 
 const pTag2 = document.getElementsByTagName('p')
 
-pTag2[6].innerText = 'Hobbies: My hobbies are: \n Dancing \n Singing \n Coding'
+pTag2[6].innerText = 'Hobbies: My hobbies are; \n Dancing \n Singing \n Coding'
 
 const head = document.querySelector('h1')
 
