@@ -31,4 +31,5 @@ const head = document.querySelector('h1')
 head.style.color = 'blue'
 head.style.textAlign = 'center'
 head.style.borderBottom = '5px solid'
+head.style.backgroundColor = 'yellow'
 
