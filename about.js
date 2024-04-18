@@ -60,7 +60,7 @@ head.style.fontSize = '35px'
 
 const body = document.querySelector('body')
 
-body.style.backgroundColor = 'grey'
+body.style.backgroundColor = 'white'
 body.style.margin = '0'
 body.style.color = 'black'
 
