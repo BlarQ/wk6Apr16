@@ -55,6 +55,7 @@ head.style.borderBottom = '5px solid'
 head.style.backgroundColor = 'yellow'
 head.style.margin = '0'
 head.style.paddingBlock = '20px'
+head.style.fontSize = '35px'
 
 
 const body = document.querySelector('body')
