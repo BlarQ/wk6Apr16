@@ -4,7 +4,7 @@ pOne.innerHTML = '<strong>Introduction:</strong> I am Adedamola also called Blar
 
 const pTwo = document.getElementsByClassName('body')
 
-pTwo[0].innerHTML = '<strong>Passions and Interests:</strong> You have a deep passion for technology and its ever-evolving landscape, constantly exploring new innovations and developments.'
+pTwo[0].innerHTML = '<strong>Passions and Interests:</strong> I have a deep passion for technology and its ever-evolving landscape, constantly exploring new innovations and developments.'
 
 const pTwo1 = document.getElementsByClassName('body')
 
@@ -12,19 +12,19 @@ pTwo1[1].innerHTML = '<strong>Professional Background:</strong>  With a backgrou
 
 const pTwo2 = document.getElementsByClassName('body')
 
-pTwo2[2].innerHTML = "<strong>Education:</strong> You pursued your education in a reputable institution, earning a degree in a relevant field and possibly continuing your learning journey through online courses or certifications."
+pTwo2[2].innerHTML = "<strong>Education:</strong> I pursued your education in a reputable institution, earning a degree in a relevant field and possibly continuing your learning journey through online courses or certifications."
 
 const pTag = document.getElementsByTagName('p')
 
-pTag[4].innerHTML = "<strong>Projects and Contributions:</strong> You've actively contributed to projects within your field, whether through personal projects, open-source contributions, or collaborations with other professionals or organizations."
+pTag[4].innerHTML = "<strong>Projects and Contributions:</strong> I've actively contributed to projects within your field, whether through personal projects, open-source contributions, or collaborations with other professionals or organizations."
 
 const pTag1 = document.getElementsByTagName('p')
 
-pTag1[5].innerHTML = "<strong>Skills and Expertise:</strong> Your skillset extends beyond technical knowledge, encompassing problem-solving abilities, critical thinking, teamwork, and effective communication skills."
+pTag1[5].innerHTML = "<strong>Skills and Expertise:</strong> My skillset extends beyond technical knowledge, encompassing problem-solving abilities, critical thinking, teamwork, and effective communication skills."
 
 const pTag2 = document.getElementsByTagName('p')
 
-pTag2[6].innerText = 'Hobbies: My hobbies are; \n Dancing \n Singing \n Coding'
+pTag2[6].innerText = 'Hobbies: My hobbies are; \n \n Dancing \n \n Singing \n \n  Coding'
 
 const head = document.querySelector('h1')
 
@@ -32,4 +32,5 @@ head.style.color = 'blue'
 head.style.textAlign = 'center'
 head.style.borderBottom = '5px solid'
 head.style.backgroundColor = 'yellow'
+
 
