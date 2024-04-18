@@ -54,10 +54,14 @@ head.style.textAlign = 'center'
 head.style.borderBottom = '5px solid'
 head.style.backgroundColor = 'yellow'
 head.style.margin = '0'
+head.style.paddingBlock = '20px'
+
 
 const body = document.querySelector('body')
 
 body.style.backgroundColor = 'grey'
 body.style.margin = '0'
+body.style.color = 'black'
+
 
 
