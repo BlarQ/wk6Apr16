@@ -224,4 +224,3 @@ let strSlice10 = sli14.trim()
 let strSlice11 = sli15.trim()
 
 strMeth6.innerText = strSlice10 +' | '+ strSlice11
-
